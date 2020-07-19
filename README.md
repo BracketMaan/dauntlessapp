@@ -1,2 +1,2 @@
 # dauntlessapp
-Community dauntless app
+Community dauntless app.
